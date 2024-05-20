@@ -5,7 +5,7 @@ from gtts import gTTS
 from playsound import playsound
 
 
-genai.configure(api_key="AIzaSyDnxeORkHfN6I44w7qjCws4Y5F59u8gpBs")
+genai.configure(api_key="API_KEY")
 while True:
     # Create the model
     # See https://ai.google.dev/api/python/google/generativeai/GenerativeModel
